@@ -21,6 +21,22 @@
 
 ### 🔧 Tech Stack Distribution
 
-**🐍 Python    **        🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦░░░░░░░░░░░░░░ 67%  
-**🗄️ SQL       **           🟨🟨🟨🟨🟨🟨🟨🟨░░░░░░░░░░░░░░░░░░░░░░░ 16%  
-**🧠 TensorFlow**    🟧🟧🟧🟧🟧🟧🟧░░░░░░░░░░░░░░░░░░░░░░░ 13%
+<h3 align="left">Most Used Languages</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-67%25-blue?style=flat&logo=python&logoColor=white" height="24"/>
+  <br/>
+  <progress value="67" max="100" style="width: 60%; height: 15px; color: #3572A5;"></progress>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-16%25-yellow?style=flat&logo=mysql&logoColor=white" height="24"/>
+  <br/>
+  <progress value="16" max="100" style="width: 60%; height: 15px; color: #f29111;"></progress>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-13%25-orange?style=flat&logo=tensorflow&logoColor=white" height="24"/>
+  <br/>
+  <progress value="13" max="100" style="width: 60%; height: 15px; color: #FF6F00;"></progress>
+</p>
